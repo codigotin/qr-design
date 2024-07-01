@@ -83,6 +83,7 @@ body a {
     display: flex;
     flex-direction: column;
     gap: 16px;
+    align-items: center;
 }
 
 
@@ -90,7 +91,7 @@ body a {
     color: var(--dark-navy);
     font-size: 1.467rem;
     font-weight: bold;
-    width: 250px;
+    width: 288px;
     text-align: center;
     display: flex;
 }
