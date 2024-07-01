@@ -89,7 +89,7 @@ body a {
 .container .qr-title {
     color: var(--dark-navy);
     font-size: 1.467rem;
-    font-weight: 600;
+    font-weight: bold;
     width: 250px;
     text-align: center;
     display: flex;
@@ -101,6 +101,8 @@ body a {
     font-size: 1rem;
     width: 256px;
     text-align: center;
+    letter-spacing: 0.19px;
+    
 }
 
 
