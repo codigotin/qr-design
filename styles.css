@@ -33,8 +33,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
-    gap: 5vh;
+    justify-content: center;    
     background-color: var(--light-grey);
     font-family: 'Outfit';
 
@@ -106,8 +105,7 @@ body a {
 
 
 .attribution {
-    font-size: 0.9em;
-    padding: 0 5%;
+    font-size: 0.9em;    
     text-align: center;
     height: 5vh;
     color: var(--blue-text);
